@@ -1,0 +1,8 @@
+.env
+node_modules
+tradeData/data/*
+tradeData/result/collateral/*
+tradeData/result/error/*
+tradeData/result/trade
+img
+
